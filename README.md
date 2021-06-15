@@ -14,8 +14,8 @@ BOT BY 𝕸𝖆𝖚 𝕸𝖔𝖉𝖉𝖊𝖗 𝕠𝕗 𝕋.𝕕.𝕄〽️
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/trabis9/botdupapucueva
-> cd botdupapucueva
+> git clone https://github.com/trabis9/botsitobymau
+> cd botsitobymau
 > npm install
 ```
 ###### Run🏃🏻‍♂️
