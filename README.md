@@ -32,7 +32,7 @@ BOT BY 𝕸𝖆𝖚 𝕸𝖔𝖉𝖉𝖊𝖗 𝕠𝕗 𝕋.𝕕.𝕄〽️
 * Descarga e Instala ImageMagick/Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis wont work,  checklist columns 1,2,3,5,6) 
 ```bash
 > git clone https://github.com/trabis9/botdupapucueva
-> cd esubot
+> cd botsitobymau
 > npm install
 ```
 ###### Run
