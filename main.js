@@ -1,5 +1,5 @@
 require('./config.js')
-let { WAConnection: _WAConnection } = require('@adiwajshing/baileys')
+let { WAConnection: _WAConnection } = require('@adiwajshing/Baileys')
 let { generate } = require('qrcode-terminal')
 let syntaxerror = require('syntax-error')
 let simple = require('./lib/simple')
